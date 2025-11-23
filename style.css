@@ -9,7 +9,7 @@ body {
 
 .container {
   background: white;
-  padding: 30px;
+  padding: 50px;
   border-radius: 10px;
   text-align: center;
   box-shadow: 0 0 10px rgba(0,0,0,0.1);
@@ -31,4 +31,4 @@ button {
 
 #increase { background: #28a745; color: white; }
 #decrease { background: #dc3545; color: white; }
-#reset { background: #007bff; color: white; }
+#reset { background: #007bff; color: white;    }

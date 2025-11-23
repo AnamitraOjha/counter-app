@@ -1,4 +1,4 @@
-let count = 0;
+let count = 1;
 
 const countDisplay = document.getElementById("count");
 const increaseBtn = document.getElementById("increase");
